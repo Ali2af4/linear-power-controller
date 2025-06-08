@@ -11,10 +11,6 @@ This project is an adjustable linear power controller, designed to provide smoot
 
 ## Hardware Design
 
-### Circuit Schematic
-*The schematic for the power controller circuit.*
-<img src="./dimmer_schematic.png" alt="Circuit Schematic for DC Dimmer" width="600">
-
 ### PCB Layout
 *A 3D render of the compact PCB layout.*
 <img src="./Screenshot%202025-06-09%20010222.png" alt="PCB Layout 3D Render for DC Dimmer" width="600">
