@@ -45,10 +45,3 @@ This project is an adjustable linear power controller, designed to provide smoot
 ## Tools Used
 
 * **Schematic & PCB Design:** Altium Designer (or Cadence / Proteus)
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-**[Your Name / Link to Your GitHub Profile]**
